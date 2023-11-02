@@ -1,0 +1,42 @@
+ [
+        {
+            "id": 1,
+            "fullName": "Harry Potter",
+            "age": 29,
+            "city": "Noida",
+            "gender": "Male",
+            "salary": 25000
+        },
+        {
+            "id": 2,
+            "fullName": "James Bond",
+            "age": 25,
+            "city": "Agra",
+            "gender": "Male",
+            "salary": 18000
+        },
+        {
+            "id": 3,
+            "fullName": "Jone Doe",
+            "age": 23,
+            "city": "Ranchi",
+            "gender": "Male",
+            "salary": 24000
+        },
+        {
+            "id": 4,
+            "fullName": "Tony Stark",
+            "age": 24,
+            "city": "Bhopal",
+            "gender": "Male",
+            "salary": 30000
+        },
+        {
+            "id": 5,
+            "fullName": "Rohit kumar",
+            "age": 33,
+            "city": "Indore",
+            "gender": "Male",
+            "salary": 45000
+        }
+    ]
